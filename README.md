@@ -167,7 +167,7 @@ If by any chance, you didnt understood anything that was mentioned above, dont w
 
 This Diagram covers how the code works in a simplified way, no need to thank me.
 
-![Diagram](./Images/Diagram.png)
+![Diagram](./Images/Diagram.jpg)
 
 
 ## References
